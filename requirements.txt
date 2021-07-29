@@ -1,0 +1,15 @@
+asgiref==3.4.1
+certifi==2021.5.30
+chardet==4.0.0
+click==8.0.1
+Django==3.2.5
+gTTS==2.2.3
+idna==2.10
+importlib-metadata==4.6.1
+pytz==2021.1
+requests==2.25.1
+six==1.16.0
+sqlparse==0.4.1
+typing-extensions==3.10.0.0
+urllib3==1.26.6
+zipp==3.5.0
